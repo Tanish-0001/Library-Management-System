@@ -2,8 +2,6 @@ from tkinter import *
 import pymysql
 from tkinter import messagebox
 
-print(pymysql.__version__)
-
 passwd = "tanish"
 database = "library"
 issueTable = "books_issued"
