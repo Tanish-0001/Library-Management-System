@@ -13,7 +13,7 @@ A simple library management system built using Python and Tkinter for the graphi
 
 ### Installation
 
-Set up two MySQL tables: one to store all the books and one to store details about issued books.\
+Set up two MySQL tables: one to store all the books and one to store details about issued books.
 
 ```sql
 CREATE TABLE books (
